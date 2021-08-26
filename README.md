@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello there 👋
+
+```yaml
+name: Hector Rios
+title: Senior Software Engineer
+site: https://hectron.github.io/
+location: Chicago, IL, USA
+interests:
+  - photography
+  - civic tech
+  - hobby projects
+  - twinkly midwest-emo music
+```
 
 <!--
 **hectron/hectron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
